@@ -1,4 +1,4 @@
-Bitfari Improvement Proposals (FIPs) describe standards for the Bitfari platform, including core protocol specifications, client APIs, and standards.
+**Bitfari Improvement Proposals (FIPs) describe standards for the Bitfari platform, including core protocol specifications, client APIs, and standards.**
 
 Contributing
 Review FIP-1.
